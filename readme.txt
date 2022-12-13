@@ -17,7 +17,7 @@ Displays name of template assigned to a post, page or public custom post type in
 
 == Description ==
 
-Displays name of template assigned to a post, page or public custom post type in admin posts list table.
+Helpful tool displaying name of a (theme) template assigned to a post, page or public custom post type in admin posts list table.
 
 
 == Installation ==
@@ -37,6 +37,7 @@ Once you enable the plugin, it adds new "Template" column in posts list table in
 == Screenshots ==
 
 1. Posts list table with "Template" column.
+2. Assigning a (theme) template to a page or post.
 
 
 == Changelog ==
