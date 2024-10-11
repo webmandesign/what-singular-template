@@ -6,12 +6,13 @@
  * Version:      1.0.0
  * Author:       WebMan Design, Oliver Juhas
  * Author URI:   https://www.webmandesign.eu/
- * License:      GNU General Public License v3
+ * License:      GPL-3.0-or-later
  * License URI:  http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:  what-singular-template
  * Domain Path:  /languages
  *
- * GitHub Plugin URI:  https://github.com/webmandesign/what-singular-template
+ * Requires PHP:       7.0
+ * Requires at least:  6.0
  *
  * @copyright  WebMan Design, Oliver Juhas
  * @license    GPL-3.0, https://www.gnu.org/licenses/gpl-3.0.html
